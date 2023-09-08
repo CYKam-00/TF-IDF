@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sequential tf-idf", "sequential tf-idf.vcxproj", "{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}.Debug|x64.ActiveCfg = Debug|x64
+		{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}.Debug|x64.Build.0 = Debug|x64
+		{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}.Debug|x86.Build.0 = Debug|Win32
+		{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}.Release|x64.ActiveCfg = Release|x64
+		{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}.Release|x64.Build.0 = Release|x64
+		{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}.Release|x86.ActiveCfg = Release|Win32
+		{B4CDF25B-1CB1-42E2-9FAD-E639A12962CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {431219C9-FFF2-4116-B346-2717235B0CC5}
+	EndGlobalSection
+EndGlobal
